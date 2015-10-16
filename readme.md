@@ -10,6 +10,7 @@ git clone git@github.com:shecodes-students/speedboard.git
 2. Install the dependencies (modules we use in our module)
 ```
 npm install
+```
 
 3. Run beefy (a local web server)
 ```
