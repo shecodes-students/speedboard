@@ -1,5 +1,22 @@
 # Speedboard
 
+## Getting started
+
+1. Clone this repository (copied code to your computer)
+```
+git clone git@github.com:shecodes-students/speedboard.git
+```
+
+2. Install the dependencies (modules we use in our module)
+```
+npm install
+
+3. Run beefy (a local web server)
+```
+npm start
+```
+4. Beefy displays a URL. Visit the URL with your browser to run the code.
+
 ## User Story
 
 As a new student I have trouble finding exotic characters on my keyboard, so I'd like a fun game that trains my typing skills.
