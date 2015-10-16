@@ -1,0 +1,14 @@
+{
+  "name": "speedboard",
+  "version": "1.0.0",
+  "description": "train your ability to identify and type special characters commonly used in programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jan Bölsche <jan@lagomorph.de> (http://regular.codes)",
+  "license": "MIT",
+  "dependencies": {
+    "browser-audio": "^1.0.2"
+  }
+}
